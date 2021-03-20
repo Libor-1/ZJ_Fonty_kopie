@@ -1,0 +1,24 @@
+#obal {
+    font-family: 'Chango', cursive;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    border: 2px dotted red;
+    
+}
+
+main {
+border: 2px dotted greenyellow;
+
+}
+
+aside {
+    color: red;
+    border: 2px dotted palevioletred;
+    margin-top: 20px;
+    
+}
+
+
